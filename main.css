@@ -1,0 +1,242 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif ;
+}
+.nav-para{
+    font-size: 13px;
+    margin-top: -7px;
+    margin-left: 6px;
+}
+.ul1{
+    display: flex;
+    column-gap: 20px;
+    list-style: none;
+    margin-right: 160px;
+    margin-top: 25px;
+}
+.head-nav{
+    padding: -10px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    /* height: 100px; */
+/* background-image: url(https://www.kamkaj.pk/Content/images/kamkaj/AC_Banner.jpg); */
+}
+.nav-heading1{
+    margin-top: 8px;
+    margin-left: 80px;
+    font-size: 40px;
+}
+.b1{
+    color: rgb(255, 72, 0);
+}
+.child-para{
+    width:55%;
+    margin-top: 50px;
+    margin-left: 30px;
+    
+}
+.head-nav2{
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    /* margin */
+    justify-content: space-around;
+}
+.nav-heading2{
+    font-size: 50px;
+}
+.b2{
+    color: rgb(255, 72, 0);
+}
+.child{
+    padding: 15px;
+    /* margin-left: 10px; */
+    margin-right: 50px;
+    z-index: 1;
+    /* width: 100%; */
+    height: 380px;
+    background-image: url(https://www.kamkaj.pk/content/images/kamkajV2/book-form-bg.png);
+    background-repeat: no-repeat;
+}
+.inputform{
+    width: 300px;
+    border: 1px solid gray;
+
+    height: 35px;
+    border-radius: 5px;
+}
+.inputbutton{
+    width: 300px;
+    border: 1px solid gray;
+    background-color:  rgb(255, 72, 0);
+    height: 35px;
+    border-radius: 5px;
+}
+.para-nav{
+    line-height: 25px;
+}
+.nav-inp{
+    height: 48px;
+    width: 370px;
+    margin-left: -4px;
+    /* border-radius: 15px; */
+    
+    border: 1px solid black;
+    border-left:white ;
+}
+.nav-select{
+    width: 150px;
+    border: 1px solid black;
+    height: 50px;
+    border-right:white ;
+    /* margin-left: 10px; */
+    /* border-top-right-radius: 15px; */
+}
+.head-container{
+    display: flex;
+    justify-content: space-around;
+}
+.co1{
+margin-left: 10px;
+}
+.child-container{
+    /* margin-top: 30px; */
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 140px;
+    width: 105px;
+}
+.card-chold{
+}
+.head-cards2{
+    display: flex;
+    justify-content: space-around;
+    padding: 200px;
+    margin-top: -200px;
+    column-gap: 10px;
+    
+}
+.head-cards22{
+    display: flex;
+    justify-content: space-around;
+    padding: 200px;
+    margin-top: -300px;
+    column-gap: 10px;
+    
+}
+.head-cards222{
+    display: flex;
+    justify-content: space-around;
+    padding: 200px;
+    margin-top: -300px;
+    column-gap: 10px;
+    
+}
+.card-chold{
+    /* background-image: url(); */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    border: 1px solid gray;
+    background-size: 250px;
+    /* height: 1000px; */
+    width: 400px;
+    height: 250px;  
+}
+.card-chold11{
+    /* background-image: url(); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    border: 1px solid gray;
+    margin-top: -20px;
+    background-size: 250px;
+    /* height: 1000px; */
+    width: 400px;
+    height: 250px;  
+}
+.head-child1{
+    width: 350px;
+    border: 1px solid black;
+    border-radius:10px ;
+    height: 250px;
+}
+.head-video2{
+    display: flex;
+    justify-content: space-around;
+    column-gap: 10px;
+}
+.head-divv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.head-imgg{
+    margin-left:10px;
+}
+.head-text{
+    
+    width: 500px;
+    margin-top: -10px;
+}
+.mobile-link{
+    display:flex;
+    height: 700px;
+    margin-top: 150px;
+    justify-content: space-around;
+    background-color: rgb(199, 199, 199);
+}
+
+.m1{
+    margin-left: -100px;
+    margin-top: 100px;
+}
+
+.m2{
+    margin-left: -200px;
+    margin-top: 300px;
+}
+.m3{
+    margin-left: -100px;
+    margin-top: 250px;
+}
+.mmbb{
+    /* margin-top: 10px; */
+}
+
+
+
+
+.ooter_main{
+    background-image: url(./Img/footer-bg.png);
+    /* background-repeat: no-repeat; */
+}
+
+.footer_img{
+    width: 200px;
+    height: auto;
+}
+
+
+.footer_main{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 30px;
+}
+
+
+.footer_ul{
+    
+    list-style: none;
+    margin-top: -70px;
+}
+
+li a{
+    text-decoration: wavy;
+    color: white;
+    padding-left: 100px
+}
+
+.footer_p{
+    margin-top: -50px;
+}
